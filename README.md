@@ -1,3 +1,5 @@
+# NOT MAINTAINED
+
 # flask-guide
 
 Flask guide, dockerized
